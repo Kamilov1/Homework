@@ -1,0 +1,20 @@
+C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples4\obj\Debug\net6.0\Examples4.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples4\obj\Debug\net6.0\Examples4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples4\obj\Debug\net6.0\Examples4.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples4\obj\Debug\net6.0\Examples4.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples4\obj\Debug\net6.0\Examples4.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\bin\Debug\net6.0\Examples4.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\bin\Debug\net6.0\Examples4.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\bin\Debug\net6.0\Examples4.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\bin\Debug\net6.0\Examples4.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\bin\Debug\net6.0\Examples4.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\refint\Examples4.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\Examples4.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples4\obj\Debug\net6.0\ref\Examples4.dll

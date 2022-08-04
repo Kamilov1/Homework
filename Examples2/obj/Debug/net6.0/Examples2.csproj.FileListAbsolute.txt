@@ -13,3 +13,18 @@ C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples2\obj\Debug\net6.0
 C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples2\obj\Debug\net6.0\Examples2.pdb
 C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples2\obj\Debug\net6.0\Examples2.genruntimeconfig.cache
 C:\Users\Adiko\OneDrive\Рабочий стол\Д_з\Examples2\obj\Debug\net6.0\ref\Examples2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\bin\Debug\net6.0\Examples2.exe
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\bin\Debug\net6.0\Examples2.deps.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\bin\Debug\net6.0\Examples2.runtimeconfig.json
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\bin\Debug\net6.0\Examples2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\bin\Debug\net6.0\Examples2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.csproj.AssemblyReference.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.AssemblyInfoInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.AssemblyInfo.cs
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.csproj.CoreCompileInputs.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\refint\Examples2.dll
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.pdb
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\Examples2.genruntimeconfig.cache
+C:\Users\Adiko\OneDrive\Рабочий стол\Семинар С#\Д_з\Examples2\obj\Debug\net6.0\ref\Examples2.dll
